@@ -1,0 +1,6 @@
+sudo: false
+language: generic
+
+install: true
+
+script: echo hola
